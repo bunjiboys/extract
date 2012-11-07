@@ -1,4 +1,12 @@
-extract
-=======
+Description
+===========
 
-Chef provider to handle extracting of multiple filetypes
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
